@@ -10,3 +10,10 @@ h1{
   font-weight:bold;
   color:black;
 }
+.banner{
+  	margin:15px;
+  	padding:15px;
+ 	 height:200px;
+ 	 border: 10px solid #ffffff;
+	 box-shadow: 5px 2px 5px 5px #ddfddd;
+}
