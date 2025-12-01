@@ -1,5 +1,5 @@
 body{
-  background- color: darkgrey;
+  background-color: darkgrey;
 } 
 h1{
   font-family: 'Kavoon'; font-size: 40px;
@@ -46,14 +46,16 @@ li a:hover {
   color: white;
 }
 nav{
-	position: absolute;
-	width: 90%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
 }
 .menu{
 	display:flex;
 	justify-content: center;
 	margin: 0;
-	padding: 0px;
+	padding: 0;
 	list-style:none;
 	gap: 30px;
 }
