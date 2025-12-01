@@ -16,6 +16,7 @@ h1{
     box-shadow: 5px 2px 5px 5px #ddfddd;
 	display: flex;
 	align-items: center;
+	justify-content: center;
 	gap: 20px
 }
 
