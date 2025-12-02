@@ -78,7 +78,7 @@ li a, .dropBtn{
   color: white;
 }
 
-.skill-bar.html { width: 90%; background-color: #04AA6D; } /* green */
-.skill-bar.css  { width: 80%; background-color: #2196F3; } /* blue */
-.skill-bar.javascript   { width: 65%; background-color: #f44336; } /* red */
-.skill-bar.python { width: 90%; background-color: #04AA6D; } /* green */
+.skills-bar.html { width: 90%; background-color: #04AA6D; } /* green */
+.skills-bar.css  { width: 80%; background-color: #2196F3; } /* blue */
+.skills-bar.javascript   { width: 65%; background-color: #f44336; } /* red */
+.skills-bar.python { width: 90%; background-color: #04AA6D; } /* green */
