@@ -64,3 +64,21 @@ li a, .dropBtn{
   justify-content: center; 
   align-items: center;
 }
+* { box-sizing: border-box; }
+
+.skilla-container {
+  width: 100%;
+  background-color: #ddd; 
+  margin-bottom: 8px;     
+}
+
+.skilla-bar {
+  text-align: right;      
+  padding: 10px;           
+  color: white;
+}
+
+.skill-bar.html { width: 90%; background-color: #04AA6D; } /* green */
+.skill-bar.css  { width: 80%; background-color: #2196F3; } /* blue */
+.skill-bar.javascript   { width: 65%; background-color: #f44336; } /* red */
+.skill-bar.python { width: 90%; background-color: #04AA6D; } /* green */
